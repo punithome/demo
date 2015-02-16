@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-atom-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-cache-core-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-cdi-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-client-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-crypto-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-fastinfoset-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-guice-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-hibernatevalidator-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-jackson-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-jackson2-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-jaxb-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-jaxrs-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-jettison-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-jsapi-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-json-p-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-links-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-multipart-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-oauth-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-servlet-initializer-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-spring-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-validator-provider-11-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resteasy-yaml-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
