@@ -7,7 +7,7 @@
 <title>Restful Webservice Home</title>
 </head>
 <body>
-	<a href="/hello?name=Punit">Hello</a>
+	<a href="/hello?name=Punit">Hello Punit</a>
 	
 </body>
 </html>
